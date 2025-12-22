@@ -51,7 +51,7 @@ func getWeapon(weapon Weapon) string {
 func main() {
 	version := 1 //infer int
 	player := Player{
-		name:        "Captin kia",
+		name:        "Captain kia",
 		attackPower: 100,
 		health:      200,
 	} //usage of a struct
